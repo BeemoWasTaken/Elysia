@@ -1,0 +1,17 @@
+ ___________.__               .__         
+ \_   _____/|  | ___.__. _____|__|____    
+  |    __)_ |  |<   |  |/  ___/  \__  \   
+  |        \|  |_\___  |\___ \|  |/ __ \_ 
+ /_______  /|____/ ____/____  >__(____  / 
+         \/      \/         \/        \/  
+                                 v 1.0.5
+                                 
+
+//I can't run: sudo ./elysia.sh
+I am working on fixing this but in the meentime just use:
+ $ sudo bash
+ $ ./elysia.sh
+ 
+//Where is my shellphish loot?
+Navigate to elysia/addons/shellphish and then the website you used while phishing and the you will se a usernames.txt file this is where your loot is stored!
+
